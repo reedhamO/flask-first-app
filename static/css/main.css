@@ -1,0 +1,48 @@
+body {
+    background-color: beige;
+    font-family: 'Playfair Display', serif;
+    background-image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg";
+}
+
+.navbar .navbar-brand {
+    font-weight: 900;
+}
+
+.container {
+    font-family: 'Playfair Display', serif;
+    margin: 13% auto;
+}
+
+.container .display-1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 5.5rem;
+}
+
+.container .display-3 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 4rem;
+}
+
+.container .display-4 {
+    text-align: center;
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+.container form {
+    margin: auto 25%;
+}
+
+
+.container button {
+    background-color: rgb(225, 225, 177);
+    border: 0;
+    color: black;
+}
+
+/* .container .logoutButton {
+    display: flex;
+    align-items: center;
+} */
